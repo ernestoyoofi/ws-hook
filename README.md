@@ -4,6 +4,6 @@ Implementation to send websocket messages from http requests and sent using cryp
 
 ## How it work ?
 
-Aplikasi yang terhubung ke websocket akan dapat menerima data apa yang sesuai yang dikirim melalui webhook dihttp.
+Applications connected to the websocket will be able to receive appropriate data sent via the webhook on http.
 
 ![](./img/example.png)
